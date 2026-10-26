@@ -16,11 +16,9 @@
 
 ## 在线试玩
 
-部署到 GitHub Pages 后，把这里换成你的地址：
+**<https://rainjin107.github.io/dushiaidushi/>**
 
-```text
-https://<你的用户名>.github.io/<仓库名>/
-```
+> 仓库：[RainJin107/dushiaidushi](https://github.com/RainJin107/dushiaidushi) · GitHub Pages 托管
 
 ## 玩法
 
